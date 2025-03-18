@@ -1,2 +1,2 @@
 # python_algorithm_exercise
- algorithm exercises
+ Pyhton Algorithm Exercises
